@@ -1,0 +1,43 @@
+
+/* General statements */
+
+html, body, h1, h2, h3,p, h5, h6, em {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+
+body{
+
+/*	line-height: 1.6em;*/
+  margin: 0;
+  font-family: 'Helvetica', arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+#header {
+  text-align: center;
+}
+#name{
+  margin: 0.25em;
+  font-size: 2em;
+}
+
+#address{
+  margin: 0em;
+}
+
+#contact{
+  margin: 0em;
+}
+
+.right {
+  margin: 0em 3em;
+}
